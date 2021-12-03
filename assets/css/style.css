@@ -231,6 +231,8 @@ h1, h2, h3, h4, h5, h6 {
   left: 100%;
   visibility: visible;
 }
+
+
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
@@ -455,7 +457,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 1024px) {
   #hero p {
-    width: 50%;
+    width: 100%;
   }
   #hero .carousel-control-prev, #hero .carousel-control-next {
     width: 5%;
