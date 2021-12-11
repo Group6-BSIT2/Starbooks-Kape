@@ -858,7 +858,7 @@ section {
 @media (max-width: 100px) {
   .specials .nav-link {
     border: 0;
-    padding: 0px;
+    padding: 15px;
   }
   .specials .nav-link.active {
     color: #fff;
