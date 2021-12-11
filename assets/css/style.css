@@ -833,11 +833,11 @@ section {
   font-size: 15px;
 }
 .specials .nav-link:hover {
-  color: #ffb03b;
+  color: #27a907;
 }
 .specials .nav-link.active {
-  color: #ffb03b;
-  border-color: #ffb03b;
+  color: #27a907;
+  border-color: #27a907;
 }
 .specials .tab-pane.active {
   -webkit-animation: fadeIn 0.5s ease-out;
@@ -858,7 +858,7 @@ section {
 @media (max-width: 100px) {
   .specials .nav-link {
     border: 0;
-    padding: 15px;
+    padding: 0px;
   }
   .specials .nav-link.active {
     color: #fff;
