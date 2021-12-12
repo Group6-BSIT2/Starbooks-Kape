@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #000000;
+  background: #27a907;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #000000;
+  background: #e5fcdc;
   color: rgb(0, 0, 0);
 }
 .back-to-top.active {
@@ -788,7 +788,7 @@ section {
   }
   .specials .nav-link.active {
     color: #fff;
-    background: #ffb03b;
+    background: #27a907;
   }
 }
 
