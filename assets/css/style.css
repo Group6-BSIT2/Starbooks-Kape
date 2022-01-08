@@ -377,14 +377,17 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 #hero h2 span {
-  color: #036103;
+  color: #ffffff;
 }
 #hero p {
-  width: 80%;
+  width: 10%;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
-  margin: 0 auto 30px auto;
+  margin: 0 auto 30px ;
   color: #fff;
+  font-style: helvetica;
+  font-size: 40px;
+
 }
 #hero .carousel-inner .carousel-item {
   transition-property: opacity;
